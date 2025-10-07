@@ -12,9 +12,9 @@ const errorText = document.getElementById('error-message-text');
 
 const countryNames = {
     "ID": "Indonesia", "US": "Amerika Serikat", "GB": "Britania Raya",
-    "AU": "Australia", "JP": "Jepang", "CN": "Tiongkok",
-    "SG": "Singapura", "MY": "Malaysia", "TH": "Thailand",
-    "VN": "Vietnam", "PH": "Filipina", "KR": "Korea Selatan"
+    "AU": "Australia", "IT": "Italia", "FR": "Prancis", "DE": "Jerman",
+    "JP": "Jepang", "CN": "Tiongkok", "SG": "Singapura", "MY": "Malaysia",
+    "TH": "Thailand", "VN": "Vietnam", "PH": "Filipina", "KR": "Korea Selatan"
 };
 
 function getCountryFullName(code) {
